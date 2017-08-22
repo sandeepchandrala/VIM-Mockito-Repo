@@ -5,8 +5,9 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 public class ControllerServletTest {
-	@ignore
+	
 	@Test
+	@ignore
 	public void testProcessRequest() {
 		fail("Not yet implemented");
 	}
